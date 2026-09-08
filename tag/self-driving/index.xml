@@ -2,138 +2,138 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Self-driving | Dr.Alex</title>
-    <link>https://petiushko.info/tag/self-driving/</link>
-      <atom:link href="https://petiushko.info/tag/self-driving/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petiushko.io/tag/self-driving/</link>
+      <atom:link href="https://petiushko.io/tag/self-driving/index.xml" rel="self" type="application/rss+xml" />
     <description>Self-driving</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Nov 2025 10:30:00 +0000</lastBuildDate>
     <image>
-      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <url>https://petiushko.io/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
       <title>Self-driving</title>
-      <link>https://petiushko.info/tag/self-driving/</link>
+      <link>https://petiushko.io/tag/self-driving/</link>
     </image>
     
     <item>
       <title>Safe Planning in Autonomous Driving</title>
-      <link>https://petiushko.info/talk/2025/11/18/2025-11-18/</link>
+      <link>https://petiushko.io/talk/2025/11/18/2025-11-18/</link>
       <pubDate>Tue, 18 Nov 2025 10:30:00 +0000</pubDate>
-      <guid>https://petiushko.info/talk/2025/11/18/2025-11-18/</guid>
+      <guid>https://petiushko.io/talk/2025/11/18/2025-11-18/</guid>
       <description>&lt;p&gt;Presentation at Workshop on &lt;a href=&#34;https://drivex-workshop.github.io/itsc2025/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Foundation Models for V2X Cooperative Autonomous Driving&lt;/a&gt; (DriveX) at the &lt;a href=&#34;https://ieee-itsc.org/2025/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE International Conference on Intelligent Transportation Systems&lt;/a&gt; (ITSC) 2025.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Autonomous Driving: Introduction, Technologies, and the Planning Problem</title>
-      <link>https://petiushko.info/talk/2025/08/16/2025-08-16/</link>
+      <link>https://petiushko.io/talk/2025/08/16/2025-08-16/</link>
       <pubDate>Sat, 16 Aug 2025 16:00:00 +0000</pubDate>
-      <guid>https://petiushko.info/talk/2025/08/16/2025-08-16/</guid>
+      <guid>https://petiushko.io/talk/2025/08/16/2025-08-16/</guid>
       <description>&lt;p&gt;Presentation at Lectorium &lt;a href=&#34;https://it-picnic.ru/lectorium&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science in the Hands of Engineers&lt;/a&gt; at the &lt;a href=&#34;https://it-picnic.ru&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IT Picninc&lt;/a&gt; 2025.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Uncertainty and Safety In Autonomous Driving</title>
-      <link>https://petiushko.info/talk/2025/06/11/2025-06-11/</link>
+      <link>https://petiushko.io/talk/2025/06/11/2025-06-11/</link>
       <pubDate>Wed, 11 Jun 2025 09:00:00 +0000</pubDate>
-      <guid>https://petiushko.info/talk/2025/06/11/2025-06-11/</guid>
+      <guid>https://petiushko.io/talk/2025/06/11/2025-06-11/</guid>
       <description>&lt;p&gt;Presentation at Workshop on &lt;a href=&#34;https://uncertainty-cv.github.io/2025/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Uncertainty Quantification for Computer Vision&lt;/a&gt; (UQCV) at the &lt;a href=&#34;https://cvpr.thecvf.com/Conferences/2025&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE/CVF Conference on Computer Vision and Pattern Recognition&lt;/a&gt; (CVPR) 2025.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Middle Mile and Foundation Models</title>
-      <link>https://petiushko.info/talk/2024/09/24/2024-09-24/</link>
+      <link>https://petiushko.io/talk/2024/09/24/2024-09-24/</link>
       <pubDate>Tue, 24 Sep 2024 10:20:00 +0000</pubDate>
-      <guid>https://petiushko.info/talk/2024/09/24/2024-09-24/</guid>
+      <guid>https://petiushko.io/talk/2024/09/24/2024-09-24/</guid>
       <description>&lt;p&gt;Presentation at Workshop on &lt;a href=&#34;https://www.mrt.kit.edu/fmad/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Foundation Models for Autonomous Driving&lt;/a&gt; (FMAD) at the &lt;a href=&#34;https://ieee-itsc.org/2024/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE International Conference on Intelligent Transportation Systems&lt;/a&gt; (ITSC) 2024.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Combining IMitation and Reinforcement Learning for Safe Autonomous Driving</title>
-      <link>https://petiushko.info/talk/2024/06/18/2024-06-18/</link>
+      <link>https://petiushko.io/talk/2024/06/18/2024-06-18/</link>
       <pubDate>Tue, 18 Jun 2024 11:30:00 +0000</pubDate>
-      <guid>https://petiushko.info/talk/2024/06/18/2024-06-18/</guid>
+      <guid>https://petiushko.io/talk/2024/06/18/2024-06-18/</guid>
       <description>&lt;p&gt;Presentation at Workshop on &lt;a href=&#34;https://agents4ad.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data-Driven Autonomous Driving Simulation&lt;/a&gt; (DDADS) at the &lt;a href=&#34;https://cvpr.thecvf.com/Conferences/2024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE/CVF Conference on Computer Vision and Pattern Recognition&lt;/a&gt; (CVPR) 2024.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Scaling Laws for Autonomous Driving Models</title>
-      <link>https://petiushko.info/talk/2023/12/14/2023-12-14/</link>
+      <link>https://petiushko.io/talk/2023/12/14/2023-12-14/</link>
       <pubDate>Thu, 14 Dec 2023 14:15:00 +0000</pubDate>
-      <guid>https://petiushko.info/talk/2023/12/14/2023-12-14/</guid>
+      <guid>https://petiushko.io/talk/2023/12/14/2023-12-14/</guid>
       <description>&lt;p&gt;Presentation at &lt;a href=&#34;https://ml4ad.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Machine Learning for Autonomous Driving 2023&lt;/a&gt; (ML4AD) Symposium.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Autonomous Driving: From Basics to Behavior Challenges</title>
-      <link>https://petiushko.info/talk/2023/07/13/2023-07-13/</link>
+      <link>https://petiushko.io/talk/2023/07/13/2023-07-13/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://petiushko.info/talk/2023/07/13/2023-07-13/</guid>
+      <guid>https://petiushko.io/talk/2023/07/13/2023-07-13/</guid>
       <description>&lt;p&gt;Presentation during &lt;a href=&#34;https://nnov.hse.ru/en/ma/vision/mcv_industrial_webinars&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Industrial Webinars&lt;/a&gt; Stream of Master&amp;rsquo;s Programme &amp;lsquo;&lt;a href=&#34;https://nnov.hse.ru/en/ma/vision/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Master of Computer Vision&lt;/a&gt;&amp;rsquo;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Behavior Modeling and Learned Motion Selection for Safe Driving</title>
-      <link>https://petiushko.info/talk/2023/06/19/2023-06-19/</link>
+      <link>https://petiushko.io/talk/2023/06/19/2023-06-19/</link>
       <pubDate>Mon, 19 Jun 2023 14:00:00 +0000</pubDate>
-      <guid>https://petiushko.info/talk/2023/06/19/2023-06-19/</guid>
+      <guid>https://petiushko.io/talk/2023/06/19/2023-06-19/</guid>
       <description>&lt;p&gt;Presentation at &lt;a href=&#34;https://trust-ai.github.io/SSAD2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Secure and Safe Autonomous Driving&lt;/a&gt; (SSAD) Workshop at the &lt;a href=&#34;https://cvpr2023.thecvf.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE/CVF Conference on Computer Vision and Pattern Recognition&lt;/a&gt; (CVPR) 2023.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Artificial Intelligence for Autonomous Driving</title>
-      <link>https://petiushko.info/talk/2023/06/06/2023-06-06/</link>
+      <link>https://petiushko.io/talk/2023/06/06/2023-06-06/</link>
       <pubDate>Tue, 06 Jun 2023 11:00:00 +0000</pubDate>
-      <guid>https://petiushko.info/talk/2023/06/06/2023-06-06/</guid>
+      <guid>https://petiushko.io/talk/2023/06/06/2023-06-06/</guid>
       <description>&lt;p&gt;I was invited as a &lt;a href=&#34;https://cai.ieee.org/2023/aleksandr-petiushko/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;panelist&lt;/a&gt; for the &amp;lsquo;Artificial Intelligence for Autonomous Driving&amp;rsquo; panel discussion at &lt;a href=&#34;https://cai.ieee.org/2023/program/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Conference on Artificial Intelligence 2023&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Self-driving: Introduction, Challenges and Open Questions</title>
-      <link>https://petiushko.info/talk/2023/05/25/2023-05-25/</link>
+      <link>https://petiushko.io/talk/2023/05/25/2023-05-25/</link>
       <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://petiushko.info/talk/2023/05/25/2023-05-25/</guid>
+      <guid>https://petiushko.io/talk/2023/05/25/2023-05-25/</guid>
       <description>&lt;p&gt;I was &lt;a href=&#34;https://t.me/dl_stories/739&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;invited&lt;/a&gt; by &lt;a href=&#34;https://dls.samcs.ru/en/dls&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Learning School&lt;/a&gt; to make a presentation about the current landscape of research in Autonomous Driving Area.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Autonomy: Introduction of ML for High School</title>
-      <link>https://petiushko.info/talk/2023/04/28/2023-04-28/</link>
+      <link>https://petiushko.io/talk/2023/04/28/2023-04-28/</link>
       <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://petiushko.info/talk/2023/04/28/2023-04-28/</guid>
+      <guid>https://petiushko.io/talk/2023/04/28/2023-04-28/</guid>
       <description>&lt;p&gt;Presentation done for students of &lt;a href=&#34;https://mvhs.mvla.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mountain View High School&lt;/a&gt; with the overview of the Autonomy Stack, related problems, and possible new jobs that students can face in the future.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Autonomy: Open Questions</title>
-      <link>https://petiushko.info/talk/2023/03/26/2023-03-26/</link>
+      <link>https://petiushko.io/talk/2023/03/26/2023-03-26/</link>
       <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://petiushko.info/talk/2023/03/26/2023-03-26/</guid>
+      <guid>https://petiushko.io/talk/2023/03/26/2023-03-26/</guid>
       <description>&lt;p&gt;Presentation done during 2023 Spring Retreat at &lt;a href=&#34;https://www.berkeley.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of California, Berkeley&lt;/a&gt; organizied by &lt;a href=&#34;https://deepdrive.berkeley.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkeley DeepDrive&lt;/a&gt; and &lt;a href=&#34;https://bair.berkeley.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkeley Artificial Intelligence Research&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Autonomy Challenges</title>
-      <link>https://petiushko.info/talk/2022/10/11/2022-10-11/</link>
+      <link>https://petiushko.io/talk/2022/10/11/2022-10-11/</link>
       <pubDate>Tue, 11 Oct 2022 18:00:00 +0000</pubDate>
-      <guid>https://petiushko.info/talk/2022/10/11/2022-10-11/</guid>
+      <guid>https://petiushko.io/talk/2022/10/11/2022-10-11/</guid>
       <description>&lt;p&gt;I was invited to make a presentation at &lt;a href=&#34;https://www.berkeley.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of California, Berkeley&lt;/a&gt; lecture organized by &lt;a href=&#34;https://deepdrive.berkeley.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkeley DeepDrive&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Overview of Self-Driving Vehicle Stack of Technologies</title>
-      <link>https://petiushko.info/talk/2021/07/23/2021-07-23/</link>
+      <link>https://petiushko.io/talk/2021/07/23/2021-07-23/</link>
       <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://petiushko.info/talk/2021/07/23/2021-07-23/</guid>
+      <guid>https://petiushko.io/talk/2021/07/23/2021-07-23/</guid>
       <description>&lt;p&gt;I was invited by the &lt;a href=&#34;https://sochisirius.ru/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sirius Educational Center&lt;/a&gt; to make a presentation about the fundamentals and challenges of Self-driving stack during the &lt;a href=&#34;https://sochisirius.ru/obuchenie/graduates/smena928/4475&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Summer school on Modern Methods for Information Theory, Optimization and Control&lt;/a&gt;. &lt;a href=&#34;https://cloud01.sochisirius.ru/index.php/s/9x6X5nBrzqNEBjP&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Program&lt;/a&gt;. Also, I served there as a Huawei representative leading the research track related to self-driving (prediction task).&lt;/p&gt;
 </description>
     </item>

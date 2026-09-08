@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Equivalence | Dr.Alex</title>
-    <link>https://petiushko.info/tag/equivalence/</link>
-      <atom:link href="https://petiushko.info/tag/equivalence/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petiushko.io/tag/equivalence/</link>
+      <atom:link href="https://petiushko.io/tag/equivalence/index.xml" rel="self" type="application/rss+xml" />
     <description>Equivalence</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2010 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <url>https://petiushko.io/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
       <title>Equivalence</title>
-      <link>https://petiushko.info/tag/equivalence/</link>
+      <link>https://petiushko.io/tag/equivalence/</link>
     </image>
     
     <item>
       <title>On Markov Random Fields and Their Relationship with Markov Chains</title>
-      <link>https://petiushko.info/publication/2010_mrf_mc/</link>
+      <link>https://petiushko.io/publication/2010_mrf_mc/</link>
       <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
-      <guid>https://petiushko.info/publication/2010_mrf_mc/</guid>
+      <guid>https://petiushko.io/publication/2010_mrf_mc/</guid>
       <description></description>
     </item>
     
